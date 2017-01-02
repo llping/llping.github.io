@@ -1,2 +1,0 @@
-# shareblog
-blog
